@@ -1,0 +1,11 @@
+#myDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
